@@ -1,0 +1,12 @@
+.w-width{
+    width:18rem;
+}
+@media (max-width:768px) {
+    .w-width{
+        width:20rem;
+    } 
+    .d-flex{
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+}
